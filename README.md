@@ -13,7 +13,26 @@ instead of drillholes i put some drilled pads on the hotswap part of the footpri
 
 ![safe footprint](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/SAFE.png)
 
+# Reset
+SW_ResetSW
 
+a footprint for the smal 2 pin reset buttons
+
+![reset footprint](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/reset.png)
+![reset button](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/SAFE.png)
+
+# smaller tenting puck 
+Tenting_Pucksmol
+
+i had sime issues placing ther tenting puck footprint from [splitkb](https://github.com/splitkb) so i changed just the pad size
+
+![smol tenting puck](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/puck.png)
+
+# BAT
+BAT
+just some solder pads for a the battery cables wehen youre making a bluetooth keeb with a nice nano or else
+
+![BAT](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/bat.png)
 
 
 # sourced from:
