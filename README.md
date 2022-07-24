@@ -14,6 +14,8 @@ instead of drillholes i put some drilled pads on the hotswap part of the footpri
 ![safe footprint](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/SAFE.png)
 
 
+
+
 # sourced from:
 [https://github.com/keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty)
 
