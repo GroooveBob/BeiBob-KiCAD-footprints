@@ -19,7 +19,8 @@ SW_ResetSW
 a footprint for the smal 2 pin reset buttons
 
 ![reset footprint](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/reset.png)
-![reset button](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/SAFE.png)
+
+![reset button](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/resetimage.jpg)
 
 # smaller tenting puck 
 Tenting_Pucksmol
