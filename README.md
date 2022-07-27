@@ -25,7 +25,7 @@ a footprint for the smal 2 pin reset buttons
 # smaller tenting puck 
 Tenting_Pucksmol
 
-i had sime issues placing ther tenting puck footprint from [splitkb](https://github.com/splitkb) so i changed just the pad size
+i had some issues placing thr tenting puck footprint from [splitkb](https://github.com/splitkb) so i just changed the pad size ... not the hole
 
 ![smol tenting puck](https://github.com/GroooveBob/BeiBob-KiCAD-footprints/blob/main/image/puck.png)
 
