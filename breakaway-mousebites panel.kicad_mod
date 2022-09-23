@@ -1,0 +1,17 @@
+(footprint "breakaway-mousebites panel" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5B90EF0D)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -3.048 180) (layer "Dwgs.User") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 47dfbab2-6ed9-4e64-b5fc-dc54c07a9061)
+  )
+  (fp_text value "breakaway-mousebites panel" (at 0 -4.75 180) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 15bdd00e-867c-452f-9097-417ffa48b760)
+  )
+  (fp_line (start -2.794 0) (end 2.794 0) (layer "Dwgs.User") (width 0.15) (tstamp 22b13259-0027-463e-8999-6259aabd965e))
+  (pad "" np_thru_hole circle (at 0 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask) (tstamp 403316fb-aecc-4934-805e-8707f4a24816))
+  (pad "" np_thru_hole circle (at -1.27 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask) (tstamp 998148f6-cff8-4d11-9708-7c73653a7248))
+  (pad "" np_thru_hole circle (at 1.27 -0.254) (size 0.7874 0.7874) (drill 0.7874) (layers *.Cu *.Mask) (tstamp 99feebf9-a7d1-4851-8353-bef2206fa828))
+)
